@@ -1,0 +1,4 @@
+{
+    "ansible.executionEnvironment.containerEngine": "docker",
+    "ansible.executionEnvironment.enabled": true
+}
