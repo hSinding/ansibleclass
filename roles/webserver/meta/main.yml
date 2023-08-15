@@ -1,6 +1,6 @@
 galaxy_info:
-  author: Henrik Sinding Nielsen 
-  description: Install and configure httpd and php on Enterprise Linux
+  author: Henrik Sinding Nielsen
+  description: Install and configure httpd and php on Entperprise Linux
   company: BESTSELLER A/S
 
   # If the issue tracker for your role is not on github, uncomment the
