@@ -59,7 +59,6 @@
         - install
         - config
 
-
   handlers:
     - name: Firewall reload
       ansible.builtin.systemd:
