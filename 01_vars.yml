@@ -55,6 +55,10 @@
         permanent: true
         state: enabled
       notify: Firewall reload
+      tags:
+        - install
+        - config
+
 
   handlers:
     - name: Firewall reload
